@@ -11,7 +11,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "http-proxy-middleware": "^3.0.3",
-    "express": "^5.0.0"
+    "express": "^5.0.0",
+    "http-proxy-middleware": "^3.0.3"
   }
 }
